@@ -1,0 +1,10 @@
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\bin\Debug\MotorShopDB.dacpac
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\bin\Debug\Motor_Shop.dll
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\bin\Debug\Motor_Shop.pdb
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\MotorShopDB.sqlproj.AssemblyReference.cache
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\Model.xml
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\refactor.xml
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\postdeploy.sql
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\predeploy.sql
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\Motor_Shop.dll
+D:\3rdYearProject\CampolloDBMotorshop\Motor Shop\obj\Debug\Motor_Shop.pdb
