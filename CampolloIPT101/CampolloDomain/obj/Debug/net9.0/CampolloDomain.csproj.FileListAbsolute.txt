@@ -1,0 +1,12 @@
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\bin\Debug\net9.0\CampolloDomain.deps.json
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\bin\Debug\net9.0\CampolloDomain.dll
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\bin\Debug\net9.0\CampolloDomain.pdb
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.AssemblyInfoInputs.cache
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.AssemblyInfo.cs
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.csproj.CoreCompileInputs.cache
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.sourcelink.json
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.dll
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\refint\CampolloDomain.dll
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\CampolloDomain.pdb
+D:\3rdYearProject\CampolloDBMotorshop\CampolloDomain\obj\Debug\net9.0\ref\CampolloDomain.dll
