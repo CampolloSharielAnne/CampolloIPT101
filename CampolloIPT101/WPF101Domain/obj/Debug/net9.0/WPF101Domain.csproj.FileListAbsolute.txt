@@ -1,0 +1,12 @@
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\bin\Debug\net9.0\WPF101Domain.deps.json
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\bin\Debug\net9.0\WPF101Domain.dll
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\bin\Debug\net9.0\WPF101Domain.pdb
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.AssemblyInfoInputs.cache
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.AssemblyInfo.cs
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.csproj.CoreCompileInputs.cache
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.sourcelink.json
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.dll
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\refint\WPF101Domain.dll
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\WPF101Domain.pdb
+D:\3rdYearProject\CampolloDBMotorshop\WPF101Domain\obj\Debug\net9.0\ref\WPF101Domain.dll
